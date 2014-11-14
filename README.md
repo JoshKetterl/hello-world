@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first git
+Learning the ropes with everyone's favorite program, Hello World!
